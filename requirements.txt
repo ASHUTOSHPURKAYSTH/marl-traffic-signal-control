@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+torch
+torch-geometric
+pyyaml
+tqdm
+wandb
+# CityFlow is installed from source: https://github.com/cityflow-project/CityFlow
