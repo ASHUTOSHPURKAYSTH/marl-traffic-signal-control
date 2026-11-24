@@ -17,7 +17,7 @@
 | Output | Signal phase action per intersection (4 discrete phases) |
 | Unit of analysis | One decision step at one intersection (agent) |
 
-## Pipeline
+![ML Pipeline](docs/pipeline.png)
 ```
 CityFlow JSON data -> Preprocessing (graph + features) -> CityFlow environment
 -> GNN message passing -> MAPPO training -> Evaluation vs baselines -> Policy + logs
