@@ -53,7 +53,7 @@ CityFlow JSON data -> Preprocessing (graph + features) -> CityFlow environment
 ## Project Status
 - [x] Problem formulation
 - [x] Optimization survey
-- [ ] Baseline experiments (preprocessing, regression, classifiers, ANN, DQN, PCA): in progress
+- [x] Baseline experiments (preprocessing, regression, classifiers, ANN, DQN, PCA): in progress
 - [ ] Environment setup (CityFlow wrapper)
 - [ ] Baselines (fixed-time, LP)
 - [ ] GNN + MAPPO implementation
